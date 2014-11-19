@@ -1,0 +1,109 @@
+<*project
+      version = 4 civer = "Free v4.11.12" winver = "2.6/5.1.2600" > 
+   <output> C:\Documents and Settings\Aum\My Documents\VisualBasic\New</>
+   <exename> DS-setup.exe</>
+   <digitsign> </>
+   <appname> Dhayalan Sivasuthan's Software Collection</>
+   <password> </>
+   <addlang> </>
+   <icon> Default - 1</>
+   <selfextr> 1</>
+   <voltype> nolimit</>
+   <volsize> </>
+   <volpattern> disk%i.pak</>
+   <load> </>
+   <loadtime> 1000</>
+   <checktype> admin</>
+   <chkname> </>
+   <chkmsg> </>
+   <lang> english</>
+   <iface> leftlogo</>
+   <leftlogo> Install - 1</>
+   <logo> A</>
+   <vb> </>
+   <dao> </>
+   <background> 0</>
+   <dlgwelcome> 1</>
+   <dlgreadme> C:\Documents and Settings\Aum\My Documents\VisualBasic\ApplicationsForSetup\Files\Dhayalan Sivasuthan.txt</>
+   <dlglic> </>
+   <dlgcustpath> C:\Program Files\Dhayalan Sivasuthan\</>
+   <dlgenfpath> </>
+   <dlgsavepath> </>
+   <dlgautoprog> 1</>
+   <dlgfinish> </>
+   <comptype> defnorm</>
+   <solid> </>
+   <srcfolder> C:\Documents and Settings\Aum\My Documents\VisualBasic\ApplicationsForSetup 2</>
+   <runafter> Softs Made.exe</>
+   <runconfirm> 0</>
+   <uninclude> 1</>
+   <unicon> Uninstall</>
+   <unshortcut> 1</>
+   <unrun> Uninstall\SSC Uninstall</>
+   <silent> 0</>
+   <unfeed> </>
+   <unautoclose> 0</>
+   <unfinish> 1</>
+   <bl> </>
+   <files listview >
+      
+   </files>
+   <runx listview >
+      
+   </runx>
+   <registry listview >
+      
+   </registry>
+   <shcut listview >
+      <_><shpath>prog</><shname>My Picture Viewer 2.exe</><tarpath>inst</><tarname>My Picture Viewer 2.exe</><cmdline></><workpath>def</><workcust></><icon></></>
+<_><shpath>prog</><shname>My Unit Converter 2.exe</><tarpath>inst</><tarname>My Unit Converter 2.exe</><cmdline></><workpath>def</><workcust></><icon></></>
+<_><shpath>prog</><shname>My Calculator 3.exe</><tarpath>inst</><tarname>My Calculator 3.exe</><cmdline></><workpath>def</><workcust></><icon></></>
+<_><shpath>prog</><shname>My Timer 3.1.exe</><tarpath>inst</><tarname>My Timer 3.1.exe</><cmdline></><workpath>def</><workcust></><icon></></>
+<_><shpath>prog</><shname>My Media Player 3.exe</><tarpath>inst</><tarname>My Media Player 3.exe</><cmdline></><workpath>def</><workcust></><icon></></>
+<_><shpath>prog</><shname>Chemistry Quiz.exe</><tarpath>inst</><tarname>Chemistry Quiz.exe</><cmdline></><workpath>def</><workcust></><icon></></>
+<_><shpath>prog</><shname>My Media Player 4.exe</><tarpath>inst</><tarname>My Media Player 4.exe</><cmdline></><workpath>def</><workcust></><icon></></>
+<_><shpath>prog</><shname>Motherboard Quiz.exe</><tarpath>inst</><tarname>Motherboard Quiz.exe</><cmdline></><workpath>def</><workcust></><icon></></>
+<_><shpath>prog</><shname>Siva's Explorer 7.3.exe</><tarpath>inst</><tarname>Siva's Explorer 7.3.exe</><cmdline></><workpath>def</><workcust></><icon></></>
+<_><shpath>prog</><shname>Quiz 2.exe</><tarpath>inst</><tarname>Quiz 2.exe</><cmdline></><workpath>def</><workcust></><icon></></>
+<_><shpath>prog</><shname>My Text Editor 3.exe</><tarpath>inst</><tarname>My Text Editor 3.exe</><cmdline></><workpath>def</><workcust></><icon></></>
+<_><shpath>prog</><shname>SL ID Card Reader.exe</><tarpath>inst</><tarname>SL ID Card Reader.exe</><cmdline></><workpath>def</><workcust></><icon></></>
+<_><shpath>prog</><shname>My Calendar.exe</><tarpath>inst</><tarname>My Calendar.exe</><cmdline></><workpath>def</><workcust></><icon></></>
+<_><shpath>prog</><shname>Web Browser.exe</><tarpath>inst</><tarname>Web Browser.exe</><cmdline></><workpath>def</><workcust></><icon></></>
+<_><shpath>prog</><shname>My Tamil  Keyboard 2.exe</><tarpath>inst</><tarname>My Tamil  Keyboard 2.exe</><cmdline></><workpath>def</><workcust></><icon></></>
+<_><shpath>prog</><shname>My Multiplication Table.exe</><tarpath>inst</><tarname>My Multiplication Table.exe</><cmdline></><workpath>def</><workcust></><icon></></>
+
+   </shcut>
+   <ini listview >
+      
+   </ini>
+   <copy listview >
+      
+   </copy>
+   <activex listview >
+      <_><path>sys</><name>wmp.ocx</></>
+<_ disable = 1><path>win</><name>wmp.ocx</></>
+<_><path>sys</><name>RICHTX32.OCX</></>
+<_ disable = 1><path>win</><name>RICHTX32.OCX</></>
+<_><path>sys</><name>COMCTL32.OCX</></>
+<_ disable = 1><path>win</><name>COMCTL32.OCX</></>
+<_><path>inst</><name>MSCAL.OCX</></>
+<_ disable = 1><path>win</><name>MSCAL.OCX</></>
+<_><path>sys</><name>msstdfmt.dll</></>
+<_><path>win</><name>msstdfmt.dll</></>
+
+   </activex>
+   <font listview >
+      <_><path>font</><name>Alankaram.ttf</><fontname>Alankaram</><permanent>1</></>
+<_><path>font</><name>Alankaram.ttf</><fontname>Alankaram Plain</><permanent>1</></>
+<_><path>inst</><name>Alankaram.ttf</><fontname>Alankaram Plain</><permanent>1</></>
+<_><path>inst</><name>Alankaram.ttf</><fontname>Alankaram</><permanent>1</></>
+
+   </font>
+   <ext listview >
+      
+   </ext>
+   <mreg listview >
+      
+   </mreg>
+   <macros> </>
+</project>

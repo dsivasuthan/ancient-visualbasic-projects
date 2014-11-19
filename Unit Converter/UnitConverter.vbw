@@ -1,0 +1,12 @@
+frmLengthConversion = 206, 44, 768, 311, C, 18, 15, 580, 508, C
+frmWelcomeScreen = 1, 623, 768, 881, C, 5, 7, 567, 497, C
+frmSpeedConversion = 44, 44, 708, 359, C, 90, 54, 754, 369, C
+frmMassConversion = 0, 0, 664, 316, C, 22, 22, 686, 338, C
+frmDensityConversion = 60, 96, 724, 412, C, 0, 0, 664, 316, C
+frmPressureConversion = 78, 34, 742, 351, C, 22, 22, 686, 339, C
+frmPowerConversion = 66, 66, 730, 383, C, 22, 36, 686, 353, C
+frmEnergyConversion = 106, 82, 770, 399, C, 22, 22, 686, 339, C
+frmTemperatureConversion = 96, 108, 760, 425, C, 44, 278, 690, 584, C
+frmVolumeConversion = 110, 110, 774, 427, C, 69, 49, 715, 355, C
+frmAreaConversion = 23, 98, 687, 415, C, 18, 39, 682, 356, C
+Dialog = 176, 232, 881, 726, C, 19, 14, 724, 508, C
