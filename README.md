@@ -1,10 +1,8 @@
 old-vb6.0-projects
 ==================
 
-my old visual basic 6.0 projects
-
-posting them public if it might be useful for some others.
-
+This is a collection some visual basic projects I had done very long time ago. I am hosting them here for anyone who might find this useful.
+---
 Wallpaper Changer - Changes the desktop wallpaper after a given interval of time.
 
 Age In Days - Age In Days calculates the number of days between two given dates. It can calculate the days you have lived up today
