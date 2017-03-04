@@ -1,7 +1,7 @@
-old-vb6.0-projects
+microsoft visual basic 6.0 projects
 ==================
 
-This is a collection some visual basic projects I had done very long time ago. I am hosting them here for anyone who might find this useful.
+This is a collection of some visual basic projects I had done very long time ago (~2004). I am hosting them here for anyone who might find the code, the algorithms or the app useful.
 ---
 Wallpaper Changer - Changes the desktop wallpaper after a given interval of time.
 
